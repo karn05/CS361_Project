@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BlackSea</string>
+    <string name="play">Play</string>
+    <string name="black_sea">Black Sea</string>
+    <string name="history">History</string>
+    <string name="top_txt_example">Markov Chains</string>
+    <string name="maintenance">Maintenance</string>
+    <string name="socialize">Socialize</string>
+    <string name="radar">Radar</string>
+    <string name="report">Report</string>
+    <string name="back_to_menu">Back to Menu</string>
+    <string name="dummy1">First Exam</string>
+    <string name="dummy2">May 23, 2015</string>
+    <string name="dummy3">Best Of Luck</string>
+    <string name="dummy_story_high">TextView</string>
+    <string name="example_txt_start"><b>Day 01 - </b> You are captain of a flagship. Your country invaded another state, although they barely have any navy. The coastline is infested with Anti-Ship Missile, and Suicide Drone. Due to energy problem and your ship inadequate maintenance, you can’t open Radar most of the time and doing so will prevent you from communicating with the rest of the crew.\n</string>
+    <string name="day"><b>Day ** - </b></string>
+    <string name="startTxt">You are captain of a flagship. Your country invaded another state, although they barely have any navy. The coastline is infested with Anti-Ship Missile, and Suicide Drone. Due to energy problem and your ship inadequate maintenance, you can’t open Radar most of the time and doing so will prevent you from communicating with the rest of the crew.\n</string>
+    <string name="maintain_0"><b>Day ** - </b> You ordered your crew to maintenance the ship. \n </string>
+    <string name="maintain_1"><b>Day ** - </b> You ordered your crew to maintenance the ship. They fixed some devices. \n</string>
+
+    <string name="radar_0"><b>Day ** - </b> You open radar.\n</string>
+    <string name="radar_1"><b>Day ** - </b> You open radar. Your ship intercept 1 missile. \n</string>
+
+    <string name="socialize_0"><b>Day ** - </b> You socialize with your crew. \n</string>
+    <string name="socialize_1"><b>Day ** - </b> You socialize with your crew, you learned about *** past. \n</string>
+
+    <string name="dead">Your ship got upgrade in to Submarine. :) </string>
+</resources>
