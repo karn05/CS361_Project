@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/CS361/BlackSea/app/src/main/res/layout/activity_main.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/CS361/BlackSea/app/src/main/res/layout/history.xml" value="0.27309782608695654" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/CS361/BlackSea/app/src/main/res/layout/history_item.xml" value="0.26313405797101447" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/CS361/BlackSea/app/src/main/res/layout/history_items.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/CS361/BlackSea/app/src/main/res/layout/play.xml" value="0.2726449275362319" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/CS361/BlackSea/app/src/main/res/layout/play_items.xml" value="0.26313405797101447" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
